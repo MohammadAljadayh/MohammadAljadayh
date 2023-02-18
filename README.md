@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @MohammadAljadayh
-- 🌱 Full-Stuck Developer
+- 🌱 Front End Developer
 - 💬 reach me: mjedayh@gmail.com
 
 <br>
